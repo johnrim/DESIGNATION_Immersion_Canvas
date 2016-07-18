@@ -16,5 +16,5 @@
 <iframe src="https://docs.google.com/presentation/d/1DcPnwFtW9oWG9RDm0n9bTqIBAYYR_2ethhmuARoBbnE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="853" height="562" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <hr />
 <h1><strong>Move onto the Week 2 Presentations</strong></h1>
-<p><a id="" class="button" title="Week 2 Presentations" href="/courses/14/pages/week-2-presentations?module_item_id=923" target="">Week 2 Presentations</a></p>
+<p><a id="" class="button-secondary" title="Modules List" href="/courses/14/modules" target="" data-api-endpoint="https://designationlabs.instructure.com/api/v1/courses/14/modules" data-api-returntype="[Module]">View All Modules</a> <a id="" class="button" title="Week 2 Presentations" href="/courses/14/pages/week-2-presentations?module_item_id=923" target="">Week 2 Presentations</a></p>
 <hr />
